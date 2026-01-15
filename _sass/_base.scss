@@ -19,6 +19,17 @@ strong {
   color: var(--global-text-color);
 }
 
+li, p, ul {
+  font-size: 1.1rem; // 例如设置为 1rem（默认 16px）
+  font-family: "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  // font-family: "Microsoft YaHei"；
+  // font-family: "微软雅黑";
+  // font-family:  Arial;
+  // font-family: sans-serif;
+  // font-family: Helvetica;
+  // font-family: Noto Sans;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
