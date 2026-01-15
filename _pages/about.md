@@ -72,7 +72,7 @@ I also worked closely with Prof. <a href='https://zjhzjh123.github.io/'>Jiaheng 
 
 
 I am always looking for master, undergraduate students and research interns, who are passionate about research. 
-Send an email to luhao AT tyut.edu.cn with your CV and transcript if you are interested.
+Send an email to luhao01 AT tyut.edu.cn with your CV and transcript if you are interested.
 
 <!-- Please feel free to contact me (via email at <a href="mailto:luhao@tyut.edu.cn">luhao@tyut.edu.cn</a>) for potential collaborations and opportunities. -->
 
