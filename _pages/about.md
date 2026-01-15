@@ -66,7 +66,7 @@ I also worked closely with Prof. <a href='https://zjhzjh123.github.io/'>Jiaheng 
   <li>Distributed Systems</li>
   <li>Blockchains</li>
   <li>Encrypted Databases</li>
-  <li>Federated Learning</li>
+  <!-- <li>Federated Learning</li> -->
 </ul>
  
 
